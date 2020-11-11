@@ -15,7 +15,11 @@
 	<description>Trabajo final Spring ezshipping </description>
 
 	<properties>
+<<<<<<< HEAD
 		<java.version>11</java.version>
+=======
+		<java.version>8</java.version>
+>>>>>>> feature/layout
 	</properties>
 
 	<dependencies>

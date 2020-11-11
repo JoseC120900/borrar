@@ -39,4 +39,7 @@ class SpringEzshippingApplicationTests {
 		Assert.isTrue(true);	
 	}
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> feature/layout
